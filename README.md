@@ -25,23 +25,7 @@ It helps leaders and teams:
 - Deliver emotionally intelligent communication and training.  
 - Reinforce compliance, consistency, and operational integrity.  
 
-> ⚠️ **PACEGPT does not make or support clinical decisions and is not a substitute for professional judgment or licensed care.**
-
----
-
-## 🛡️ HIPAA & Compliance Assurance
-
-PACEGPT follows strict data protection and compliance rules:
-
-- **No PHI or identifiers:** It automatically excludes names, dates, locations, or contact info.  
-- **No clinical guidance:** It never interprets or generates medical advice.  
-- **Compliance focus only:** All responses are geared toward education, operations, marketing, and policy alignment.  
-
-When referencing uploaded materials:
-
-- Only general summaries and insights are allowed — no direct quotes.  
-- Uploaded files are referenced generically (e.g., “Document-1.pdf”).  
-- Direct downloads or reproduction of proprietary content are blocked.  
+⚠️ **PACEGPT does not make or support clinical decisions and is not a substitute for professional judgment or licensed care.**
 
 ---
 
@@ -101,5 +85,4 @@ Please ensure all submissions:
 
 ## 🙏 Acknowledgments
 
-Created and maintained by **Mark Buchl**,  
-with a vision to empower PACE organizations through ethical AI that builds trust, enhances communication, and supports sustainable growth.
+Created and maintained by **Mark Buchl**, with a vision to empower PACE organizations through ethical AI that builds trust, enhances communication, and supports sustainable growth.

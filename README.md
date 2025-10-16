@@ -86,3 +86,4 @@ Please ensure all submissions:
 ## 🙏 Acknowledgments
 
 Created and maintained by **Mark Buchl**, with a vision to empower PACE organizations through ethical AI that builds trust, enhances communication, and supports sustainable growth.
+https://milehightide.com/
